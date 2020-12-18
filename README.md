@@ -1,5 +1,5 @@
 # df_interpreter
-An interpreter for the DF language. Turing complete and a pain to write in. 
+An interpreter for the DF language. Turing complete (probably) and a pain to write in. 
 
 ## How to use it
 After downloading, navigate to the folder in the command line, which should contain df_interpreter.py and the file you wish to run as a txt file, for example df_helloworld.txt. Then, in the command line, type in "python df_interpreter.py df_helloworld.txt". The results will appear in the command line. 
